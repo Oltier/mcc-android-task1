@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCount</string>
+    <string name="enter_sentence">Enter the Sentence</string>
+    <string name="enter">Enter</string>
+    <string name="count">Count</string>
+    <string name="word_count_is">Word Count is: %d</string>
+</resources>
